@@ -1,0 +1,11 @@
+C:\Users\Sanja\source\repos\digitalRoot\digitalRoot\bin\Debug\netcoreapp3.0\digitalRoot.exe
+C:\Users\Sanja\source\repos\digitalRoot\digitalRoot\bin\Debug\netcoreapp3.0\digitalRoot.deps.json
+C:\Users\Sanja\source\repos\digitalRoot\digitalRoot\bin\Debug\netcoreapp3.0\digitalRoot.runtimeconfig.json
+C:\Users\Sanja\source\repos\digitalRoot\digitalRoot\bin\Debug\netcoreapp3.0\digitalRoot.runtimeconfig.dev.json
+C:\Users\Sanja\source\repos\digitalRoot\digitalRoot\bin\Debug\netcoreapp3.0\digitalRoot.dll
+C:\Users\Sanja\source\repos\digitalRoot\digitalRoot\bin\Debug\netcoreapp3.0\digitalRoot.pdb
+C:\Users\Sanja\source\repos\digitalRoot\digitalRoot\obj\Debug\netcoreapp3.0\digitalRoot.csprojAssemblyReference.cache
+C:\Users\Sanja\source\repos\digitalRoot\digitalRoot\obj\Debug\netcoreapp3.0\digitalRoot.AssemblyInfoInputs.cache
+C:\Users\Sanja\source\repos\digitalRoot\digitalRoot\obj\Debug\netcoreapp3.0\digitalRoot.AssemblyInfo.cs
+C:\Users\Sanja\source\repos\digitalRoot\digitalRoot\obj\Debug\netcoreapp3.0\digitalRoot.dll
+C:\Users\Sanja\source\repos\digitalRoot\digitalRoot\obj\Debug\netcoreapp3.0\digitalRoot.pdb

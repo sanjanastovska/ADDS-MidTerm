@@ -1,0 +1,11 @@
+C:\Users\Sanja\source\repos\ReverseWords\ReverseWords\bin\Debug\netcoreapp3.0\ReverseWords.exe
+C:\Users\Sanja\source\repos\ReverseWords\ReverseWords\bin\Debug\netcoreapp3.0\ReverseWords.deps.json
+C:\Users\Sanja\source\repos\ReverseWords\ReverseWords\bin\Debug\netcoreapp3.0\ReverseWords.runtimeconfig.json
+C:\Users\Sanja\source\repos\ReverseWords\ReverseWords\bin\Debug\netcoreapp3.0\ReverseWords.runtimeconfig.dev.json
+C:\Users\Sanja\source\repos\ReverseWords\ReverseWords\bin\Debug\netcoreapp3.0\ReverseWords.dll
+C:\Users\Sanja\source\repos\ReverseWords\ReverseWords\bin\Debug\netcoreapp3.0\ReverseWords.pdb
+C:\Users\Sanja\source\repos\ReverseWords\ReverseWords\obj\Debug\netcoreapp3.0\ReverseWords.csprojAssemblyReference.cache
+C:\Users\Sanja\source\repos\ReverseWords\ReverseWords\obj\Debug\netcoreapp3.0\ReverseWords.AssemblyInfoInputs.cache
+C:\Users\Sanja\source\repos\ReverseWords\ReverseWords\obj\Debug\netcoreapp3.0\ReverseWords.AssemblyInfo.cs
+C:\Users\Sanja\source\repos\ReverseWords\ReverseWords\obj\Debug\netcoreapp3.0\ReverseWords.dll
+C:\Users\Sanja\source\repos\ReverseWords\ReverseWords\obj\Debug\netcoreapp3.0\ReverseWords.pdb
